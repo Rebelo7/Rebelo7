@@ -1,6 +1,3 @@
-<style>
-h2 {text-align: center;}
-</style>
 
 
 ![banner](https://github.com/Rebelo7/Rebelo7/assets/143350138/ceff5135-ee0f-4ba8-8b0c-435abe8da866)
@@ -13,7 +10,7 @@ Hello! It's Ruben Rebelo and I'm a Full-Stack Web Developer located in Porto - P
 
 From concept to deployment, I am dedicated to delivering high-quality solutions that exceed expectations and drive business growth. 
 
-
+<br></br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebelo7&theme=synthwave&show_icons=true)](https://github.com/Rebelo7/github-readme-stats)
