@@ -1,4 +1,5 @@
 
+![banner](https://github.com/Rebelo7/Rebelo7/assets/143350138/3a535c33-b9af-4f40-b477-c52671d388df)
 
 Hello! It's Ruben Rebelo and I'm a Full-Stack Web Developer located in Porto - Portugal. I am a passionate web developer with a knack for crafting dynamic and user-friendly digital products. With expertise in both front-end finesse and back-end proficiency, I excel in creating seamless web applications that captivate and engage users.
 
