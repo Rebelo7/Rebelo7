@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/Rebelo7/Rebelo7/assets/143350138/ceff5135-ee0f-4ba8-8b0c-435abe8da866)
 
-<h2>About me!<h2>
+<h2>About me!</h2>
 
 
 
