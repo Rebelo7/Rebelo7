@@ -3,6 +3,8 @@
 
 <h1>About me!<h1>
 
+<br>
+
 <p>
 Hello! It's Ruben Rebelo and I'm a Full-Stack Web Developer located in Porto - Portugal. I am a passionate web developer with a knack for crafting dynamic and user-friendly digital products. With expertise in both front-end finesse and back-end proficiency, I excel in creating seamless web applications that captivate and engage users.
 
@@ -10,6 +12,7 @@ From concept to deployment, I am dedicated to delivering high-quality solutions 
 
 </p>
 
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebelo7&theme=synthwave&show_icons=true)](https://github.com/Rebelo7/github-readme-stats)
 
 <!--
